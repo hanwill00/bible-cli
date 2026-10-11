@@ -1,0 +1,54 @@
+# Synonym groups for `vsearch syn` / `fsearch syn`.
+# One group per line, words separated by commas. Plurals and -ed/-ing endings
+# are matched automatically (compassion also finds compassions).
+# Lines starting with # are comments. Add your own groups freely.
+
+compassion, mercy, lovingkindness, loving-kindness, pity, tender mercies, kindness
+grace, favor, favour
+righteousness, justice, uprightness, just, upright
+holy, holiness, sanctify, sanctification, consecrate, consecration, saint
+glory, glorify, glorious, honor, honour, splendor, majesty
+love, beloved, charity, affection
+faith, believe, belief, trust, faithfulness
+hope, expectation, wait
+peace, rest, tranquility, quiet
+joy, rejoice, gladness, glad, delight, exult
+fear, dread, terror, afraid, awe, reverence
+sin, iniquity, transgression, trespass, wickedness, offense, evil
+forgive, forgiveness, pardon, remission, cleanse, purge
+redeem, redemption, ransom, purchase, deliver, deliverance, rescue, salvation, save
+justify, justification, acquit, righteous
+atone, atonement, propitiation, propitiate, expiation, reconcile, reconciliation
+covenant, testament, promise, oath
+economy, dispensation, stewardship, administration, arrangement, household
+spirit, pneuma, breath, wind
+life, zoe, living, alive, quicken, vivify
+light, illumine, enlighten, shine, radiance, brightness
+word, logos, rhema, speaking, utterance, saying, scripture
+church, assembly, congregation, ekklesia, body, bride
+kingdom, reign, rule, dominion, throne, king
+lord, master, sovereign, jehovah, yahweh
+worship, adore, bow, prostrate, reverence
+praise, bless, thanksgiving, thank, magnify, exalt, extol, hallelujah
+prayer, pray, supplication, petition, intercession, intercede, entreat, beseech
+serve, service, minister, ministry, servant, slave, bondslave
+labor, labour, work, toil, effort
+suffer, suffering, affliction, tribulation, trial, persecution, distress, trouble
+comfort, console, consolation, encourage, encouragement, exhort, exhortation
+strength, strong, power, might, mighty, ability
+wisdom, wise, understanding, prudence, prudent, knowledge, insight, discernment
+truth, reality, true, genuine, real
+heart, mind, soul, inward parts, innermost being
+flesh, body, carnal, fleshly, natural man, old man
+transform, transformation, conform, conformation, renew, renewing, metamorphosis
+build, building, edify, edification, builded, house, temple, dwelling, tabernacle
+enemy, adversary, foe, satan, devil, serpent, opposer
+death, die, dead, perish, destruction, grave, sheol, hades
+resurrection, raised, rise, risen, arise
+overcome, overcomer, conquer, victory, victorious, triumph, prevail
+shepherd, pastor, feed, tend, flock, sheep
+feast, banquet, supper, eat, drink, food, bread, wine
+fruit, fruitful, harvest, increase, multiply, grow, growth
+vanity, vain, emptiness, futile, futility
+rebuke, reprove, chasten, chastise, discipline, correct, correction
+wrath, anger, fury, indignation, vengeance
