@@ -1,7 +1,7 @@
 #!/bin/bash
 # Bible toolkit installer / updater for macOS (also works on Linux).
 #
-#   curl -fsSL https://raw.githubusercontent.com/YOURNAME/bible-cli/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/hanwill00/bible-cli/main/install.sh | bash
 #
 # Installs into ~/Bible (or $BIBLE_DIR), adds one line to ~/.zshrc, then
 # downloads the Recovery Version text and the hymns onto this computer.
@@ -12,7 +12,7 @@
 #   --no-hymns      skip the hymns
 set -e
 
-REPO="${BIBLE_CLI_REPO:-YOURNAME/bible-cli}"
+REPO="${BIBLE_CLI_REPO:-hanwill00/bible-cli}"
 BRANCH="${BIBLE_CLI_BRANCH:-main}"
 DEST="${BIBLE_DIR:-$HOME/Bible}"
 DOWNLOAD=1; HYMNS=1
