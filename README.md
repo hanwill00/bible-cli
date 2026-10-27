@@ -35,7 +35,7 @@ Hymns, #395 (O Jesus Christ, grow Thou in me)
 2. Paste this line and press Return:
 
 ```
-curl -fsSL https://raw.githubusercontent.com/GITHUB_USER/bible-cli/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/YOURNAME/bible-cli/main/install.sh | bash
 ```
 
 3. Wait about 10–15 minutes. The installer downloads the Recovery Version text and the hymns onto your computer.
@@ -46,7 +46,7 @@ curl -fsSL https://raw.githubusercontent.com/GITHUB_USER/bible-cli/main/install.
 **Already have a folder called `Bible` in your home folder?** The installer won't touch it. Install somewhere else instead:
 
 ```
-curl -fsSL https://raw.githubusercontent.com/GITHUB_USER/bible-cli/main/install.sh | BIBLE_DIR=~/BibleTool bash
+curl -fsSL https://raw.githubusercontent.com/YOURNAME/bible-cli/main/install.sh | BIBLE_DIR=~/BibleTool bash
 ```
 
 **Updating:** paste the same install line again. Your downloaded text and hymns are kept.
